@@ -1,4 +1,4 @@
-## Hi there 👋
+## E aí, tudo bem? Me chamo Gustavo Silva Coimbra 👋
 
 <!--
 **gustavoc0imbra/gustavoc0imbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📌 Principais Projetos:
+- Site responsivo Discord: [Link para acessar](https://gustavoc0imbra.github.io/FormacaoCSSDIO-Desafio04-Responsividade/) => [Código Fonte](https://github.com/gustavoc0imbra/FormacaoCSSDIO-Desafio04-Responsividade)
+- Projeto de agendamentos: [Código Fonte](https://github.com/gustavoc0imbra/AgendaProject)
