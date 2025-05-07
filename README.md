@@ -1,3 +1,4 @@
+# [Versão PT-BR]
 ### E aí, tudo bem? Me chamo Gustavo Silva Coimbra 👋
 
 <!--
@@ -22,3 +23,6 @@ Here are some ideas to get you started:
 
 ### Linguagens mais utilizadas
 ![Minhas tecnologias](https://github-readme-stats.vercel.app/api/top-langs?username=gustavoc0imbra&layout=compact&theme=tokyonight)
+
+## Gostou do meu trabalho? 
+- Pode me contatar através do e-mail 📧: `gustavocoimbra04@gmail.com`
