@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 📌 Principais Projetos:
 - Site responsivo Discord: [Link para acessar](https://gustavoc0imbra.github.io/FormacaoCSSDIO-Desafio04-Responsividade/) => [Código Fonte](https://github.com/gustavoc0imbra/FormacaoCSSDIO-Desafio04-Responsividade)
 - Projeto de agendamentos: [Código Fonte](https://github.com/gustavoc0imbra/AgendaProject)
+- Projeto Arquitetura com Docker: [Código Fonte](https://github.com/gustavoc0imbra/API-Usuarios-Mongo-docker-1bim)
 
 ### Linguagens mais utilizadas
 ![Minhas tecnologias](https://github-readme-stats.vercel.app/api/top-langs?username=gustavoc0imbra&layout=compact&theme=tokyonight)
